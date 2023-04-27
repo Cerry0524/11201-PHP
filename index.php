@@ -1,7 +1,7 @@
 <h1>表單傳值</h1>
 <h3>GET</h3>
 <form action="target.php" method="get">
-    <input type="text" name="addr" id="addr">
+    <input type="text" name="addr" id="name">
     <input type="submit" value="送出">
 </form>
 
